@@ -1,0 +1,5 @@
+.carousel-item img {
+  height: 500px; /* Change this to your desired height */
+  /* crop image instead of stretching */
+  background-size: cover;
+}
